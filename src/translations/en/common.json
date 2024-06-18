@@ -1,0 +1,7 @@
+{
+    "app": {
+        "image-uploader": {
+            "upload-image": "Upload Image"
+        }
+    } 
+}
